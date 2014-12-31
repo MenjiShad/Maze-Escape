@@ -1,6 +1,6 @@
-//Maze-Escape
+Maze-Escape
 ===========
-//CECS274 Homework 2
+CECS274 Homework 2
 ==============
 import java.util.Scanner;
 
